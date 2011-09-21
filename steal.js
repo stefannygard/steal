@@ -1,5 +1,5 @@
 (function(){
-	// test
+	
 	var // String constants (for better minification)
 		win = (function(){return this}).call(null),
 		STR_ONLOAD = "onload",
